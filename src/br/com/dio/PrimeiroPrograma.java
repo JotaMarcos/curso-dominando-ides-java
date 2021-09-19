@@ -15,6 +15,7 @@ public class PrimeiroPrograma {
 		
 		System.out.println(gato);
 		System.out.println(livros);
+		System.out.println("\n============================================================================");
 		
 		
 		/*int a = 2;
